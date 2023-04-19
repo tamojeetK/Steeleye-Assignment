@@ -1,5 +1,7 @@
-# Steeleye-Assignment
+# Tamojeet Kuila_Front End
+**---Steeleye Assignment---**
 
+---
 
 **1. Explain what the simple `List` component does.**
 
